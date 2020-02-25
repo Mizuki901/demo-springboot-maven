@@ -19,7 +19,7 @@ When you execute this command, then you will show some artifacts in `/target` di
 ## Local Run
 
 ```
-java jar-
+java -jar target/demo-springboot-maven-0.0.1-SNAPSHOT.jar
 ```
 
 When you execute this command, then you will access this appliaction on `localhost:8080`.
