@@ -1,5 +1,7 @@
 # demo-springboot-maven
 
+https://github.com/Mizuki901/demo-springboot-maven/workflows/Java%20CI/badge.svg
+
 This sample project made by Spring Boot and Maven. 
 
 ## Dependencies
